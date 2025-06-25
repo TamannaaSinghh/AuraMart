@@ -11,9 +11,9 @@ const Navbar = () => {
 
 <Link className='navbar__link relative ' href="#">CATEGORIES</Link>
 
-<Link className='navbar__link relative ' href="#">MEN'S</Link>
+<Link className='navbar__link relative ' href="#">MEN&apos;S</Link>
 
-<Link className='navbar__link relative ' href="#">WOMEN'S</Link>
+<Link className='navbar__link relative ' href="#">WOMEN&apos;S</Link>
 
 <Link className='navbar__link relative ' href="#">JEWELRY</Link>
 

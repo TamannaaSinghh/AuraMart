@@ -8,7 +8,7 @@ const Footer = () => {
       <footer className="bg-gray-900 text-white py-8 ">
         <div className="container mx-auto text-center space-y-4 px-4 lg:px-0">
           <p className="text-lg font-medium">
-            "Crafted with care to bring you style and ease, this site is all about a seamless shopping experience. Enjoy exploring!"
+            Crafted with care to bring you style and ease, this site is all about a seamless shopping experience. Enjoy exploring!
           </p>
           <p className="font-bold text-gray-400">Tamanna Singh, CEO of AuraMart</p>
   

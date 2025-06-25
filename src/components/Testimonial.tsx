@@ -31,8 +31,8 @@ const Testimonial = () => {
               />
 
               <p className="max-w-[200px] text-gray-500">
-                "Crafted with care to bring you style and ease, this site is all
-                about a seamless shopping experience. Enjoy exploring!"
+                Crafted with care to bring you style and ease, this site is all
+                about a seamless shopping experience. Enjoy exploring!
               </p>
             </div>
           </div>
@@ -43,7 +43,7 @@ const Testimonial = () => {
                 25% DISCOUNT
               </button>
               <h2 className="font-extrabold text-2xl text-[#272727] ">
-                {" "}
+                
                 SUMMER COLLECTION
               </h2>
               <p className="text-gray-500 text-[20px]">
